@@ -3,7 +3,7 @@ I have done project on Steganography where i have completed project title "Secur
 The data is hidden in the source image after performing the encryption algorithm by providing the secure key. 
 The Output file is encrypted image which contains the hidden data in it.
 The data can be extracted after performing the decryption process (by entering the key/password).
-
+I have used python programming language to give logic in this project.
 Libraries used :- import cv2 (pip install opencv-python (for configuration) ), import os, import string.
 
 # Author
