@@ -6,3 +6,5 @@ The data can be extracted after performing the decryption process (by entering t
 
 Libraries used :- import cv2 (pip install opencv-python (for configuration) ), import os, import string.
 
+# Author
+KISHAN KUMAR JHA
